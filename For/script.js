@@ -94,3 +94,85 @@
 // for (let i=1; i<=a; i++) {
 //     c = c + 1/i;
 // }   console.log(c);
+
+// 11-masala
+
+// let a = 7;
+// for(let i=1; i<=a; i++) {
+//     if (i % 2 > 0) {
+//         console.log(i);
+//     }
+// }   
+
+// 12-masala
+
+// let a = 11;
+// for(let i=1; i<=a; i++) {
+//     if (i % 2 == 0) {
+//         console.log(i);
+//     }
+// }
+
+// 14-masala
+
+// let a = 11;
+// let c = 0;
+// for(let i=1; i<=a; i++) {
+//     if (i % 2 == 0) {
+//         c = i**2;
+//         console.log(c);
+//     } else {
+//         c = i**3;
+//         console.log(c)
+//     }
+// }
+
+// 15-masala
+
+// let a = 17;
+// for(let i=a; i>=1; i--) {
+//     console.log(i);
+// }
+
+// 16-masala
+
+// let a = 11;
+// let c = 0;
+// for(let i=1; i<=a; i++) {
+//     if (i % 5 == 0) {
+//         console.log(i);
+//     }
+// }
+
+// 17-masala
+
+// let a = 7;
+// let c = 1;
+// if (a%1 == 0) {
+//     for(let i=1; i<=a; i++) {
+//         c*=i
+//     }
+// }
+// console.log(c);
+
+// 18-masala
+
+// let a = 9;
+// let c = 0;
+// if (a%1 ==0) {
+//     for(let i=1; i<=a; i++) {
+//         c+=i
+//     }
+// }
+// console.log(c);
+
+// 20-masala
+
+// let a = 81;
+// let x = 9;
+// let c = 0;
+// for(let i=0; i<=a; i++) {
+//     if (i % x == 0) {
+//         console.log(i);
+//     }
+// }
